@@ -1,0 +1,252 @@
+
+{
+  "port": 7612,
+  "guildId": "601758790341230592",
+  "voiceChannelId": "1388906837570621581",
+  "reconnect": {
+    "delay": 10000,
+    "maxAttempts": 5
+  },
+  "tokens": [
+    {
+      "token": "MTEzMTgyOTQ5OTc4OTU3ODMwMA.GpJsWN.6X-ER19zy3WKKtl3aeYU30j5liapbVcJWCEPRA",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "MTM4NDMwNzExODM1MzY4MjQ4Mg.GP9zRJ.N07d1xQKEPUc619lDRvHmJ1vDvJK85CedlAaGY", 
+      "status": "dnd",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "OTg0NzcxNzA3MTY2NDA0NjA4.GoqnWj._WkIiJTUOWIx2HBvyuwSCAK4t_3sai6K6H6g4U",
+      "status": "idle", 
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_4",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_5",
+      "status": "invisible",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_6",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_7",
+      "status": "dnd",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_8",
+      "status": "idle",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_9",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_10",
+      "status": "invisible",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_11",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_12",
+      "status": "dnd",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_13",
+      "status": "idle",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_14",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_15",
+      "status": "invisible",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_16",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_17",
+      "status": "dnd",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_18",
+      "status": "idle",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_19",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_20",
+      "status": "invisible",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_21",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_22",
+      "status": "dnd",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_23",
+      "status": "idle",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_24",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_25",
+      "status": "invisible",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_26",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_27",
+      "status": "dnd",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_28",
+      "status": "idle",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_29",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_30",
+      "status": "invisible",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_31",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_32",
+      "status": "dnd",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_33",
+      "status": "idle",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_34",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_35",
+      "status": "invisible",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_36",
+      "status": "online",
+      "selfMute": false,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_37",
+      "status": "dnd",
+      "selfMute": true,
+      "selfDeaf": true
+    },
+    {
+      "token": "YOUR_TOKEN_38",
+      "status": "idle",
+      "selfMute": false,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_39",
+      "status": "online",
+      "selfMute": true,
+      "selfDeaf": false
+    },
+    {
+      "token": "YOUR_TOKEN_40",
+      "status": "invisible",
+      "selfMute": false,
+      "selfDeaf": true
+    }
+  ]
+}
