@@ -11,14 +11,14 @@
     {
       "token": "MTEzMTgyOTQ5OTc4OTU3ODMwMA.GpJsWN.6X-ER19zy3WKKtl3aeYU30j5liapbVcJWCEPRA",
       "status": "online",
-      "selfMute": false,
-      "selfDeaf": false
+      "selfMute": true,
+      "selfDeaf": true
     },
     {
       "token": "MTM4NDMwNzExODM1MzY4MjQ4Mg.GP9zRJ.N07d1xQKEPUc619lDRvHmJ1vDvJK85CedlAaGY", 
       "status": "dnd",
-      "selfMute": false,
-      "selfDeaf": false
+      "selfMute": true,
+      "selfDeaf": true
     },
     {
       "token": "OTg0NzcxNzA3MTY2NDA0NjA4.GoqnWj._WkIiJTUOWIx2HBvyuwSCAK4t_3sai6K6H6g4U",
